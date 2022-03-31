@@ -1,0 +1,27 @@
+node_modules
+<<<<<<< HEAD
+obj
+bin
+appsettings.json
+appsettings.Development.json
+.vs
+.vscode	
+web.config
+packages
+environment.prod.ts
+environment.ts
+=======
+appsettings.json
+wwwroot
+obj
+bin
+.vs
+.vscode
+appsettings.Development.json
+packages
+Web.config
+environment.ts
+environment.prod.ts
+>>>>>>> ToDoApp
+
+Identity_Projects_Documentation/
